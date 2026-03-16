@@ -38,4 +38,5 @@ The model predicts whether a customer will **subscribe to a term deposit** based
 ## Result
 
 Accuracy 0.8759261307088355
+
 The Decision Tree model successfully learned patterns from the dataset and produced predictions for customer subscription behavior.
